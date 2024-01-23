@@ -10,4 +10,4 @@ Added a function Feature2(){
 //One line added here to fix bug1
 }
  Bug1 is fixed with this new line.
-
+ Added 1 line in remote repository. 
