@@ -3,4 +3,5 @@ Greetings welcome back
 
 Added a function Feature2(){
 //to implement feature 2
+//Adding 1 line to enhance feature2
 }
