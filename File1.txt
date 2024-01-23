@@ -1,2 +1,6 @@
 Hello World!
 Greetings welcome back
+
+Added a function Feature2(){
+//to implement feature 2
+}
